@@ -1,3 +1,4 @@
+![alt text](https://github.com/Faisal-gith/Foto/blob/main/Space-Tourist-Explore-pixel-vibes-GIFs.gif?raw=true)
 # 💫 About Me:
 ⚡Bahasa pemrograman yang dikuasai, seperti Python, Java, atau C++<br>⚡Pengalaman dalam membuat aplikasi atau situs web<br>⚡Kemampuan dalam menganalisis masalah dan merancang solusi<br>⚡Kemampuan dalam bekerja sama dengan tim<br>⚡Kemampuan dalam mengelola waktu
 
